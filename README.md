@@ -20,3 +20,9 @@ python3 riso/example_cards.py     # → cards/ 里五张小卡 + example_cards.p
 ## 画之前知道的一件事
 
 Riso 好不好看，九成在设计：用哪几块颜色、怎么摆、有没有一个点子。颗粒和错位只是最后那层皮，而且要克制——错位小到让人觉得「好像没对准」就够了，浅色要用整齐的细网点，不然会像灰尘。`SKILL.md` 开头把这条讲透了。
+
+## License
+
+本仓库采用 [PolyForm Noncommercial License 1.0.0](LICENSE.md)。个人学习、研究、测试、爱好项目以及许可证列明的非商业组织用途可以使用、修改和分享，并需保留许可证与 [NOTICE](NOTICE)。
+
+任何预期商业用途均不在默认授权范围内，需要取得 Echoes0302 的单独书面许可。可通过本仓库的 GitHub Issue 联系。
